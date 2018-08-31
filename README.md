@@ -1,2 +1,2 @@
-# promotional-pjc
+# Promotional PJC
 Promotional PJC token
